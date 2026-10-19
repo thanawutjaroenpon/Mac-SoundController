@@ -84,6 +84,3 @@ Released under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
-### 🇹🇭 สรุปภาษาไทย
-
-แอป menu bar สำหรับ macOS ที่คุมเสียงแยกรายแอปได้เหมือน Volume Mixer ของ Windows ปรับ volume, mute และ boost ได้สูงสุด 400% โดยไม่ต้องลง driver ใช้ได้กับ macOS 14.2 ขึ้นไป โหลด `SoundSource.dmg` จากหน้า Releases แล้วลากไปไว้ใน Applications ครั้งแรกให้อนุญาตสิทธิ์ System Audio Recording
