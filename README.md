@@ -11,6 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-14.2%2B-blue" alt="macOS 14.2+">
+  <img src="https://img.shields.io/badge/license-GPLv3-green" alt="GPL-3.0">
   <img src="https://img.shields.io/badge/Swift-5.9-orange" alt="Swift">
   <img src="https://img.shields.io/badge/UI-SwiftUI-purple" alt="SwiftUI">
 </p>
@@ -76,6 +77,10 @@ open build/SoundSource.app
 ## Credits
 
 Inspired by [FineTune](https://github.com/ronitsingh10/FineTune) and the approach described in [this write-up](https://dev.to/thalesbmc/macos-still-has-no-volume-mixer-so-i-built-one-53lp).
+
+## License
+
+Released under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
