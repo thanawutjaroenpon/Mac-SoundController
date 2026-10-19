@@ -56,7 +56,7 @@ Setting an app back to 100% removes the tap entirely.
 Requires macOS 14.2+ and the Xcode Command Line Tools (full Xcode not needed).
 
 ```sh
-git clone https://github.com/<your-username>/mac-soundcontroller.git
+git clone https://github.com/thanawutjaroenpon/mac-soundcontroller.git
 cd mac-soundcontroller
 ./make_dmg.sh        # builds build/SoundSource.app and build/SoundSource.dmg
 open build/SoundSource.app
